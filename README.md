@@ -10,6 +10,6 @@ Mở game: https://machinelearningforkids.co.uk/scratch/?project=https://raw.git
 
 ## Quầy trái cây của Mana
 
-Mana đứng quầy tính tiền, nhận ra quả cam, táo, chuối qua camera, bỏ vào đúng giỏ và cộng tiền vào hóa đơn. Mana chưa chắc thì hỏi người. Có nút SỬA và chế độ giờ cao điểm 60 giây.
+Mana đứng quầy tính tiền. Đưa quả vào ô camera rồi chạm QUÉT: Mana nhận ra cam, táo, chuối, bỏ vào đúng giỏ và cộng tiền vào hóa đơn. Mana chưa chắc thì hỏi người. Có nút SỬA và chế độ giờ cao điểm 60 giây.
 
 Mở game: https://machinelearningforkids.co.uk/scratch/?project=https://raw.githubusercontent.com/kkhmn4/mana-oan-tu-xi/main/quay-trai-cay-mana.sb3
